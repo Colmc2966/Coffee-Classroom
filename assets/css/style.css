@@ -12,11 +12,56 @@ body {
     color: #3a3a3a;
 }
 
-/*headings and logo*/
+/*headings */
 
 h1,h2 {
     font-family: open-sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: blanchedalmond;
+    color: rgb(126, 79, 8);
+}
+
+/* Header */
+
+header {
+    background-color: blanchedalmond;
+}
+
+#logo {
+    padding: 10px 0px 0px 15px;
+}
+
+#header-description {
+    color: rgb(126, 79, 8);
+    padding-left: 15px;
+    padding-bottom: 40px;
+}
+
+#menu {
+    font-size: 115%;
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 25px;
+    padding-top: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: solid 1px #3a3a3a;
+}
+
+.active {
+    border-bottom: solid 1px #3a3a3a;
 }
