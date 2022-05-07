@@ -9,7 +9,8 @@
 body {
     font-family: open-sans, sans-serif;
     font-weight: 250;
-    color: #3a3a3a;
+    color: rgb(83,53,8);
+    background-color: rgb(255,228,196, .7);
 }
 
 /*headings */
@@ -18,7 +19,7 @@ h1,h2 {
     font-family: open-sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: rgb(126, 79, 8);
+    color: rgb(83, 53, 8);
 }
 
 /* Header */
@@ -36,7 +37,7 @@ header a {
 }
 
 #header-description {
-    color: rgb(126, 79, 8);
+    color: rgb(83, 53, 8);
     padding: 10px 15px;
 }
 
@@ -62,11 +63,11 @@ header a {
 }
 
 #menu a:hover {
-    border-bottom: solid 1px #3a3a3a;
+    border-bottom: solid 1px rgb(83, 53, 8);
 }
 
 .active {
-    border-bottom: solid 1px #3a3a3a;
+    border-bottom: solid 1px rgb(83, 53, 8);
 }
 
 /*Highlights*/
@@ -75,11 +76,13 @@ header a {
 #right-highlight-heading {
     margin-left:60%;
     margin-right: 5%;
+    padding-bottom: 8px;
 }
 
 #left-highlight-heading {
     float: left;
     margin-left: 5%;
+    padding-bottom: 8px;
 }
 
 #content-header {
@@ -146,10 +149,19 @@ p a {
     background-size: cover;
     background-position: center;
     width: 100%; 
-
+    height: 500px;
+    overflow: hidden;
+    border: 3px solid #3b4b2b
 }
 
 #events div {
     width: 30%;
+    height: 400px;
     text-align: center;
+    color: rgb(83,53,8);
+    float: left;
+    background-color: rgb(255,228,196, .5);
+    padding: 30px 0 0 40px;
+    margin: 1.5%;
+    box-sizing: border-box;
 }
