@@ -25,16 +25,19 @@ h1,h2 {
 
 header {
     background-color: blanchedalmond;
+    border-bottom: solid 3px #3b4b2b;
 }
 
 #logo {
     padding: 10px 0px 0px 15px;
 }
+header a {
+    text-decoration: none;
+}
 
 #header-description {
     color: rgb(126, 79, 8);
-    padding-left: 15px;
-    padding-bottom: 40px;
+    padding: 10px 15px;
 }
 
 #menu {
@@ -42,7 +45,7 @@ header {
     letter-spacing: 2px;
 }
 
-#menu, #logo {
+#menu, #logo #header-description {
     line-height: 75px;
 }
 
@@ -64,4 +67,51 @@ header {
 
 .active {
     border-bottom: solid 1px #3a3a3a;
+}
+
+/*Highlights*/
+
+#content-header {
+    text-align: center;
+    margin: 15px 0px;
+    font-size: 170%;
+}
+
+#highlights {
+    height: 450px;
+}
+
+#blog-highlight, #bean-highlight {
+    border: 4px solid #3b4b2b;
+    width: 40%;
+    height: 225px;
+    padding: 8px;
+}
+
+#blog-highlight {
+    float: left;
+    margin-left: 2%;
+}
+
+#bean-highlight {
+    float: right;
+    margin-right: 2%;
+}
+
+#botw-image {
+    width: 30%;
+    height: 60%;
+    background: url('../images/Kenya.jpg') no-repeat left;
+    background-size: cover;
+    background-position: left;
+}
+
+#bean-heading {
+    text-align: center;
+    font-size: 150%;
+}
+
+#bean-highlight-text {
+    float: right;
+    width: 60%;
 }
