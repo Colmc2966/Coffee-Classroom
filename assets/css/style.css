@@ -364,7 +364,7 @@ footer {
     height: 190px;
     background-color: rgb(141, 135, 135);
     font-size: 120%;
-    float: none;
+    clear: both;
 }
 
 #social-networks li {
