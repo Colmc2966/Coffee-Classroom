@@ -216,6 +216,16 @@ header a {
 
 /*blogs.html styling*/
 
+#right-blog-img {
+    float: right;
+    background: url(../images/right-blog-img.jpg)   left;
+    height: 1830px;
+    width: 25%;
+    border: #3b4b2b 1px solid;
+    margin: 1%;
+
+}
+
 /*blog1*/
 
 #blog1 {
