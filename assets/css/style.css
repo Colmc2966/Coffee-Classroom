@@ -260,11 +260,21 @@ header a {
     width: 50%;
 }
 
+#blog2-img{
+    width: 20%;
+    height: 200px;
+    background: url(../images/blog2-img.jpg) no-repeat right;
+    background-size: cover;
+    float: right;
+    border: 3px solid #3b4b2b;
+    margin: 1%;
+}
+
 /* blog3*/
 
 #blog3 {
     width: 70%;
-    height: 500px;
+    height: 600px;
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
@@ -297,6 +307,16 @@ td {
     float: right;
     width: 32.5%;
     padding-right: 10px;
+}
+
+#blog3-img{
+    width: 60%;
+    height: 200px;
+    background: url(../images/blog3-img.jpg) no-repeat left;
+    background-size: cover;
+    float: left;
+    border: 3px solid #3b4b2b;
+    margin: 1%;
 }
 
 /*blog4*/
