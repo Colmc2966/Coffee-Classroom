@@ -215,7 +215,7 @@ header a {
     padding: 0 7.5%;
 }
 
-/*blogs*/
+/*blogs.html*/
 
 /*blog1*/
 
@@ -225,7 +225,7 @@ header a {
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
-    margin: 5px .7%;
+    margin: 20px .7%;
 }
 
 #blog1-img{
@@ -250,7 +250,7 @@ header a {
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
-    margin: 5px .7%;
+    margin: 20px .7%;
 }
 
 #blog2 h1, h5, p {
@@ -269,37 +269,30 @@ header a {
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
-    margin: 5px .7%;
+    margin: 20px .7%;
 }
 
 #blog3 h1, h5, h3, p, table {
     margin: .5%;
 }
 
-th {
+#creatista_table, #creatista_pro_table, .comparison_row {
+    text-align: center;
+    border: 1px solid #3b4b2b;
+} 
 
+tr {
+    margin: 4px 0   ;
 }
 
-table, td {
-    text-align: center;
-    border: 2px solid #3b4b2b;
+td {
+    width: 400px;
 }
 
 #blog3 p {
     float:right;
     text-align: center;
 }
-
-/*
-#creatista_table {
-    float: left;
-}
-
-#creatista_pro_table {
-    float: left;
-}
-*/
-
 
 /*blog4*/
 
@@ -309,7 +302,7 @@ table, td {
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
-    margin: 5px .7%;
+    margin: 20px .7%;
 }
 
 #blog4 h1, h5, p {
