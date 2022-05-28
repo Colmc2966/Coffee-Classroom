@@ -425,3 +425,77 @@ footer {
 footer h4 {
     padding-left: 9px;
 }
+
+
+/* media queries*/
+
+@media screen and (max-width: 1877px) {
+    #events div {
+        width: 12%;
+        height: 650px;
+        margin: 5%;
+    }
+
+    #events {
+        width:80%;
+        height:800px;
+        margin-left: 10%;
+        margin-bottom: 2%;
+    }
+        
+}
+
+@media screen and (max-width: 1645px)  {
+    #roast-reviews {
+        width: 100%;
+        margin: 0;
+        height: 1250px;
+    }
+
+    #roast-reviews div {
+        width: 100%;
+        padding:0;
+        margin: 10px 0;
+        height:270px;
+        clear:both;
+    }
+
+    #events div {
+        width: 100%;
+        clear: both;
+        padding: 0;
+        margin: 10px 0;
+        height:200px
+    }
+
+    #events {
+        width:100%;
+        margin:0;
+        height:650px;
+    }
+
+    #highlights {
+        height: 650px
+    }
+    
+    #highlight-headers {
+        display: none;
+    }
+
+    #highlights div {
+        width: 100%;
+        height: 450px;
+        margin: 5px;
+        padding: 0;
+    }
+
+    #botw-image {
+        display: none; 
+    }
+
+    #bean-highlight-text {
+        float: none;
+        width: 100%;
+    }
+    
+}
