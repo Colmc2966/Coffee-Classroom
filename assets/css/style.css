@@ -7,7 +7,6 @@
 }
 
 body {
-    font-family: open-sans, sans-serif;
     font-weight: 250;
     color: rgb(83,53,8);
     background-color: rgb(255,228,196, .7);
@@ -16,7 +15,6 @@ body {
 /*headings */
 
 h1,h2 {
-    font-family: open-sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: rgb(83, 53, 8);
@@ -31,7 +29,9 @@ header {
 
 #logo {
     padding: 10px 0px 0px 15px;
+    text-decoration: underline;
 }
+
 header a {
     text-decoration: none;
 }
@@ -149,10 +149,7 @@ header a {
 /* Events */
 
 #events {
-    background: url('../images/events-background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background: url('../images/events-background.jpg') ;
     width: 100%; 
     height: 500px;
     overflow: hidden;
@@ -202,7 +199,7 @@ header a {
 
 #roast-reviews div {
     width: 20%;
-    height: 300px;
+    height: 310px;
     text-align: center;
     float: left;
     margin: 0 2.5%;
@@ -211,7 +208,7 @@ header a {
 }
 
 #roast-reviews div p {
-    padding: 0 7.5%;
+    padding: 1px 7.5%;
 }
 
 /*blogs.html styling*/
@@ -284,7 +281,7 @@ header a {
 
 #blog3 {
     width: 70%;
-    height: 600px;
+    height: 700px;
     float: left;
     border: #3b4b2b solid 1px;
     background-color:rgb(255,228,196, .2);
@@ -295,7 +292,7 @@ header a {
     margin: .5%;
 }
 
-#creatista_table, #creatista_pro_table, .comparison_row {
+#creatista-table, #creatista-pro-table, .comparison-row {
     text-align: center;
     border: 1px solid #3b4b2b;
 } 
@@ -358,10 +355,61 @@ td {
     margin: 1%;
 }
 
+/*events.html*/
+
+/*background image for events.html*/
+
+#events-page-background {
+    width: 100%;
+    height: 100%;
+    background: url(../images/events.html-background-img.jpg) center ;
+    background-size: cover;
+}
+
+/* content styling */
+
+#events-structure {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    color: rgb(27, 8, 8);
+    background-color: rgb(255,228,196, .5); 
+    margin: 0 30%;
+}
+
+/* form styling*/
+
+
+#events-form {
+    padding: 40px;
+}
+
+form input, form label {
+    padding: 10px;
+}
+
+#submit-button {
+    background: #0066A2;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font: bold 15px arial,sans-serif;
+    cursor: pointer;
+    }
+
+#events-information {
+    padding: 10%;
+}
+
+input:focus::placeholder {
+    color: transparent;
+    }
+
+
 /*footer*/
 
 footer {
-    height: 190px;
+    height: 220px;
     background-color: rgb(141, 135, 135);
     font-size: 120%;
     clear: both;
