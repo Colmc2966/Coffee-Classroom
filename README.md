@@ -1,6 +1,6 @@
 # Coffee Classroom
 
-Coffee Classroom is a blog website dedicated to providing coffee knowledge on a scheduled basis! The website is aimed at a global market enables users to get involved with the community surrounding the blog with its events. Coffee Classroom is a great resource for users to learn and improve on their coffee knowledge while interacting with a community. 
+Coffee Classroom is a blog website dedicated to providing coffee knowledge on a scheduled basis! The website is aimed at a global market and enables users to get involved with the community surrounding the blog with its events. Coffee Classroom is a great resource for users to learn and improve on their coffee knowledge while interacting with a community. 
 
 The main aim of the events function of the blog is to build a community of users who can bounce off each other and bond over a shared passion!
 
@@ -12,7 +12,8 @@ The main aim of the events function of the blog is to build a community of users
 
 - __Navigation__
 
- The navigation bar is on all three html pages of this website. It is the main source of navigation and clarifies to the user which page they are currently on by highlighting the current page with it being consitently underlined. 
+ - The navigation bar is on all three html pages of this website. It is the main source of navigation and clarifies to the user which page they are currently on by highlighting the current page with it being consitently underlined. 
+- A clear easy accessible nav bar was my goal as it makes the user experience alot better
 
 ![Nav Bar](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/nav.jpg)
 
