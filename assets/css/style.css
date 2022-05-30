@@ -236,7 +236,7 @@ header a {
 
 #blog1-img{
     width: 20%;
-    height: 200px;
+    height: 220px;
     background: url(../images/Kenya.jpg) no-repeat right;
     background-size: cover;
     float: right;
@@ -269,7 +269,7 @@ header a {
 
 #blog2-img{
     width: 20%;
-    height: 200px;
+    height: 220px;
     background: url(../images/blog2-img.jpg) no-repeat right;
     background-size: cover;
     float: right;
@@ -452,7 +452,7 @@ footer h4 {
 @media screen and (max-width: 550px) {
     header {
         width: 100%;
-        height: 220px;
+        height: 240px;
     }
 
     #menu, #logo, #header-description {
@@ -585,7 +585,7 @@ footer h4 {
         width: 100%;
         border-right: none;
         border-left: none;
-        height: 350px;
+        height: 380px;
         margin: 0;
         padding: 0;
     }
@@ -608,6 +608,7 @@ footer h4 {
         padding: 0;
         border-left: none;
         border-right: none;
+        height: 760px
     }
 
     #blog4 {
@@ -630,7 +631,7 @@ footer h4 {
     }
 
     #blog3 {
-        height: 910px;
+        height: 980px;
     }
 
     #blog4-img {
