@@ -531,7 +531,7 @@ footer h4 {
 
     #highlights div {
         width: 100%;
-        height: 450px;
+        height: 300px;
         margin: 5px;
         padding: 0;
         border-left: none;
@@ -553,12 +553,12 @@ footer h4 {
 
 @media screen and (max-width: 575px) {
     #events {
-        height: 1200px
+        height: 950px;
     }
 
     
     #events div {
-        height:380px
+        height: 300px;
     }
 }
 
@@ -608,7 +608,7 @@ footer h4 {
         padding: 0;
         border-left: none;
         border-right: none;
-        height: 760px
+        height: 980px
     }
 
     #blog4 {
@@ -623,15 +623,15 @@ footer h4 {
 
 @media screen and (max-width: 519px) {
     #blog1 {
-        height: 450px;
+        height: 480px;
     }
 
     #blog2 {
-        height: 470px;
+        height: 500px;
     }
 
     #blog3 {
-        height: 980px;
+        height: 1100px;
     }
 
     #blog4-img {
