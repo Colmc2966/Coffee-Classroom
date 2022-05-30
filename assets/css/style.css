@@ -445,6 +445,47 @@ footer h4 {
         
 }
 
+/* media queries*/
+
+/* media queries for logo */
+
+@media screen and (max-width: 550px) {
+    header {
+        width: 100%;
+        height: 220px;
+    }
+
+    #menu, #logo, #header-description {
+        float: left;
+    }
+
+    #menu {
+        padding: 0 0 0 15px;
+    }
+
+    
+}
+
+/* media queries for index.html */
+
+/* For laptops and tablets 1877px and below */
+
+@media screen and (max-width: 1877px) {
+    #events div {
+        width: 12%;
+        height: 650px;
+        margin: 5%;
+    }
+
+    #events {
+        width:80%;
+        height:800px;
+        margin-left: 10%;
+        margin-bottom: 2%;
+    }
+        
+}
+
 @media screen and (max-width: 1645px)  {
     #roast-reviews {
         width: 100%;
@@ -498,4 +539,27 @@ footer h4 {
         width: 100%;
     }
     
+/* For smaller devices 575px and below */
+
+}
+
+@media screen and (max-width: 575px) {
+    #events {
+        height: 1200px
+    }
+
+    
+    #events div {
+        height:380px
+    }
+}
+
+@media screen and (max-width: 405px) {
+    #roast-reviews div {
+        height: 500px;
+    }
+
+    #roast-reviews {
+        height: 2250px;
+    }
 }
