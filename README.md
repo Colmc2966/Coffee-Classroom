@@ -138,13 +138,11 @@ You can break the credits section up into Content and Media, depending on what y
 ### Content 
 
 - The text from blog 1 is paraphrased from [Home Grounds](https://www.homegrounds.co/how-to-roast-coffee-beans/)
-- All other text content is opionated form myself
+- All other text content is opionated from myself
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Method of media queries was inspired from [Love running project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/d48e6af85eb84191bebd57ece8b6fb73/)
 - nav bar code was also inspired from the  [love running project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/)
 
 ### Media
 
-- The photos used on throughout the site were taken from [pexels](https://www.pexels.com/)
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+- The photos used on throughout the site were taken from [pexels](https://www.pexels.com/) 
