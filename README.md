@@ -1,6 +1,6 @@
 # Coffee Classroom
 
-Coffee Classroom is a blog website dedicated to providing coffee knowledge on a scheduled basis! The website is aimed at a global market enables users to get involved with the community surrounding the blog with its events. Coffee CLassroom is a great resource for users to learn and improve on their coffee knowledge while interacting with a community. 
+Coffee Classroom is a blog website dedicated to providing coffee knowledge on a scheduled basis! The website is aimed at a global market enables users to get involved with the community surrounding the blog with its events. Coffee Classroom is a great resource for users to learn and improve on their coffee knowledge while interacting with a community. 
 
 The main aim of the events function of the blog is to build a community of users who can bounce off each other and bond over a shared passion!
 
@@ -119,14 +119,17 @@ The landing page gives as much information to the viewer as possible in order to
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+ 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- I deployed this site to github pages. The steps are as follows 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+  - Go to the Github repository of the project
+  - Navigate to the settings page
+  - Select the "pages" link under the "code and automation" heading
+  - Change the branch from "none" to "main" and select "save" 
+  - After a few minutes the page will be deployed to the link it provides
+
+The live link of my project can be found here - [The Coffee Classroom](https://colmc2966.github.io/Coffee-Classroom/index.html)
 
 
 ## Credits 
