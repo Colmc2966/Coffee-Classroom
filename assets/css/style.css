@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
-
-* { 
+*{ 
     margin: 0;
     padding: 0;
     border: none;
@@ -10,6 +9,7 @@ body {
     font-weight: 250;
     color: rgb(83,53,8);
     background-color: rgb(255,228,196, .7);
+    font-family: open-sans, sans-serif;
 }
 
 /*headings */
@@ -491,6 +491,7 @@ footer h4 {
         width: 100%;
         margin: 0;
         height: 1250px;
+        border: none;
     }
 
     #roast-reviews div {
@@ -499,6 +500,8 @@ footer h4 {
         margin: 10px 0;
         height:270px;
         clear:both;
+        border-left: none;
+        border-right: none;
     }
 
     #events div {
@@ -507,16 +510,22 @@ footer h4 {
         padding: 0;
         margin: 10px 0;
         height:200px
+        border-left: none;
+        border-right: none;
     }
 
     #events {
         width:100%;
         margin:0;
         height:650px;
+        border-left: none;
+        border-right: none;
     }
 
     #highlights {
         height: 650px
+        border-left: none;
+        border-right: none;
     }
     
     #highlight-headers {
@@ -528,6 +537,8 @@ footer h4 {
         height: 450px;
         margin: 5px;
         padding: 0;
+        border-left: none;
+        border-right: none;
     }
 
     #botw-image {
