@@ -106,6 +106,8 @@ The landing page gives as much information to the viewer as possible in order to
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcolmc2966.github.io%2FCoffee-Classroom%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
   - Accessibility
+    - All fonts and colors compliment each other well and all text is easy to read and udnerstand.
+    - No contrasting background colors or eye sores on the website
 
   ![Webdev](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/accessibility.jpg)
 
