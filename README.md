@@ -106,7 +106,7 @@ The landing page gives as much information to the viewer as possible in order to
 
   - Accessibility
 
-  [https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/accessibility.jpg]
+  [Webdev](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/accessibility.jpg)
 
 ### Fixed bugs
 
