@@ -509,9 +509,7 @@ footer h4 {
         clear: both;
         padding: 0;
         margin: 10px 0;
-        height:200px
-        border-left: none;
-        border-right: none;
+        height:200px;
     }
 
     #events {
@@ -524,8 +522,7 @@ footer h4 {
 
     #highlights {
         height: 650px
-        border-left: none;
-        border-right: none;
+
     }
     
     #highlight-headers {
@@ -572,5 +569,82 @@ footer h4 {
 
     #roast-reviews {
         height: 2250px;
+    }
+}
+
+/* media queries for blogs.html */
+
+/* For laptops and tablets */
+
+@media screen and (max-width: 860px) {
+    #right-blog-img {
+        display: none;
+    }
+
+    #blog1 {
+        width: 100%;
+        border-right: none;
+        border-left: none;
+        height: 350px;
+        margin: 0;
+        padding: 0;
+    }
+
+    #blog2 {
+        width: 100%;
+        border-right: none;
+        border-left: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    #blog2 p {
+        width: 70%;
+    }
+
+    #blog3 {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        border-left: none;
+        border-right: none;
+    }
+
+    #blog4 {
+        width: 100%;
+        border-right: none;
+        border-left: none;
+        height: 450px;
+    }
+}
+
+/* for phones and smaller screens */
+
+@media screen and (max-width: 519px) {
+    #blog1 {
+        height: 450px;
+    }
+
+    #blog2 {
+        height: 470px;
+    }
+
+    #blog3 {
+        height: 910px;
+    }
+
+    #blog4-img {
+        display:none;
+    }
+    
+
+    #blog4 {
+        height: 400px;
+        width: 100%; 
+        margin: 0;
+    }
+
+    #blog4 p {
+        width: 100%;
     }
 }
