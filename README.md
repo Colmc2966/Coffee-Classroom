@@ -4,61 +4,87 @@ Coffee Classroom is a blog website dedicated to providing coffee knowledge on a 
 
 The main aim of the events function of the blog is to build a community of users who can bounce off each other and bond over a shared passion!
 
-![Responsive Mockup](https://ui.dev/amiresponsive?url=https://colmc2966.github.io/Coffee-Classroom/)
+![Responsive Mockup](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/amiresponsive.jpg)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+ The navigation bar is on all three html pages of this website. It is the main source of navigation and clarifies to the user which page they are currently on by highlighting the current page with it being consitently underlined. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/nav.jpg)
 
-- __The landing page image__
+- __The header__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  The header of this website is on all 3 pages again and contains the title of the website, The coffee classroom and a short description of what the user expects to find upon scrolling further through the page.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Header](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/Header.jpg)
 
-- __Club Ethos Section__
+- __Landing page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+The landing page gives as much information to the viewer as possible in order to avoid any confusion. It includes snippets and easy accessibility to the user in order to make the users experience as smooth as possible 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Landing page](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/landingpage.jpg)
 
-- __Meetup Times section__
+- __Highlights section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  This section shows the users some snippets of whats to be expected in the blog. It's main function is to entice the viewer to scroll further through the page by providing summarised content of the webpage.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Highlights](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/highlights.jpg)
 
-- __The Footer__ 
+- __Events Snippet__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+    - The events snippet is attempting the users to learn mroe about the events that the blog is hosting
+    - There is a detailed description of each event and the days that they are generally hosted.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Events](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/Events.jpg)
 
-- __Gallery__
+- __Roast Reviews__ 
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - Roast reviews is a staple part of the website. This tab refreshes every week with new reviews. 
+  - This section provides great information to avid coffee enjoyers which are the main focus of our website.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Roast Reviews](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/roast%20reviews.jpg)
 
-- __The Sign Up Page__
+- __Blogs__ 
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The blogs page is the main content of the website 
+  - Each blog has an  opionated piece with images relevant to the piece attached.
+  - Each blog is dated too and new blogs come out every Monday, Wednesday and Friday
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/blog1.jpg)
+
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/blog2.jpg)
+
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/blog3.jpg)
+
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/blog4.jpg)
+
+- __Form__ 
+
+  - The form allows users to signup for our events. 
+  - It is an integral part of our community as it allows users to connect
+  - Keeping the form simple, straightforward and clean is essential as it gives us basic information without asking for too much.
+
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/form.jpg)
+
+
+
+- __FAQS__
+
+  - This section clarifies some details about our events to the viewers 
+  - It is very important as it gives the viewers more information about our events which can help push them to sign up for the events.
+
+![FAQS](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/faq.jpg)
+
+- __Footer__
+
+  - The footer allows our user to easily connect with our social media.
+  - It also connects our users with our email address so any queries suggestions or feedback can be sent!
+
+![Footer](https://github.com/Colmc2966/Coffee-Classroom/blob/main/media/footer.jpg)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
