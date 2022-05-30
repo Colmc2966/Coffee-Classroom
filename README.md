@@ -134,10 +134,6 @@ The live link of my project can be found here - [The Coffee Classroom](https://c
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The text from blog 1 is paraphrased from [Home Grounds](https://www.homegrounds.co/how-to-roast-coffee-beans/)
